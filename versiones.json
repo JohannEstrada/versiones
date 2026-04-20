@@ -1,0 +1,13 @@
+{
+  "version": "0.1.1",
+  "force_update": true,
+  "message": "Nueva versión disponible, favor de actualizar",
+  "download_url": "https://play.google.com/store/apps/details?id=com.ssp.combustible",
+  "release_date": "2026-04-20",
+  "changelog": [
+    "Mejora en el escáner de códigos QR",
+    "Corrección de errores en validación de odómetro",
+    "Optimización del rendimiento general",
+    "Nuevas funciones de actualización automática"
+  ]
+}
