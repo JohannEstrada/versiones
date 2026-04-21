@@ -1,13 +1,13 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.0+6",
   "force_update": false,
-  "message": "Nueva versión disponible, favor de actualizar",
+  "message": "Nueva versión disponible con acceso a galería y mejoras",
   "download_url": "https://play.google.com/store/apps/details?id=com.ssp.combustible",
-  "release_date": "2026-04-20",
+  "release_date": "2026-04-21",
   "changelog": [
-    "Mejora en el escáner de códigos QR",
-    "Corrección de errores en validación de odómetro",
-    "Optimización del rendimiento general",
-    "Nuevas funciones de actualización automática"
+    "Nueva función para seleccionar tickets desde galería",
+    "Mejora en el manejo de permisos de imágenes",
+    "Diálogo amigable para seleccionar cámara o galería",
+    "Corrección de errores en validación de tickets"
   ]
 }
