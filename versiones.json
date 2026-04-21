@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0+6",
-  "force_update": false,
+  "version": "0.1.1",
+  "force_update": true,
   "message": "Nueva versión disponible con acceso a galería y mejoras",
   "download_url": "https://play.google.com/store/apps/details?id=com.ssp.combustible",
   "release_date": "2026-04-21",
